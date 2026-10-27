@@ -189,6 +189,7 @@ Open that address in your browser to use IMovies.
 Test the application before using it for a demonstration or submission.
 
 Recommended checks:
+
 - User registration and login
 - Movie listings and movie details
 - Showtimes and seat selection
@@ -211,4 +212,13 @@ Potential enhancements include:
 - Improved admin analytics
 - Theatre-specific seat layouts
 - Automated testing and deployment
-- Cloud hosting for the frontend, backend
+- Cloud hosting for the frontend, backend, and database
+
+## 🎓 Project Purpose
+
+IMovies was developed as a full-stack web development project to demonstrate frontend development, REST API integration, database operations, authentication, and application design.
+
+## 👨‍💻 Author
+**Shantanu Karkare**
+- GitHub: [Shantanu-Karkare](https://github.com/Shantanu-Karkare)
+---
